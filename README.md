@@ -6,10 +6,6 @@ I'm transitioning into software engineering through self-directed study and prac
 
 Junior software engineering opportunities, with an interest in backend development and AI/ML.
 
-## 🛠️ Technologies
-
-Python · TypeScript · SQL · PostgreSQL · Docker
-
 ## 🎓 Learning Journey
 
 <p align="left">
